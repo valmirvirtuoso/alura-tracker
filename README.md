@@ -1,6 +1,16 @@
 # alura-tracker
 
-<img src="./src/assets/logo.png"/>
+![Logo of the project](./src/assets/logo.svg)
+
+## Meu Portifólio
+![Portifolio](https://valmirvirtuoso.com)
+
+## Técnologias
+
+Aqui estão as tecnológias utilizadas no projeto
+
+* Vue 3
+* TypeScript
 
 ## Project setup
 ```
@@ -22,9 +32,16 @@ npm run build
 npm run lint
 ```
 
-### Sobre o Projeto
+### 1 - Projeto possui apenas uma página, essa que é a home.
 
-<p>Projeto feito durante o curso introdutorio sobre Vue JS 3</p>
-<p>Foi desenvolvido utilizando Typescript</p>
+![Homepage image](./src/assets/home.png)
+
+### 2 - Página Home com tarefas executadas.
+![Homepage image](./src/assets/homeTwoTasks.png)
+
+### 3 - Página Home com modo dark ligado.
+![Homepage image](./src/assets/homeDarkMode.png)
+
+
 
 
