@@ -1,5 +1,7 @@
 # alura-tracker
 
+<img src="./src/assets/logo.png"/>
+
 ## Project setup
 ```
 npm install
@@ -20,5 +22,9 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Sobre o Projeto
+
+<p>Projeto feito durante o curso introdutorio sobre Vue JS 3</p>
+<p>Foi desenvolvido utilizando Typescript</p>
+
+
