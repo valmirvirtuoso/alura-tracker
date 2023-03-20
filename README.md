@@ -1,9 +1,6 @@
 # alura-tracker
 
-![Logo of the project](./src/assets/logo.svg)
-
-## Meu Portifólio
-![Portifolio](https://valmirvirtuoso.com)
+![Logo of the project](./src/assets/logo.png)
 
 ## Técnologias
 
